@@ -23,8 +23,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Usage
+![Screenshot (77)](https://user-images.githubusercontent.com/87554644/134069430-6ef7506e-0ea8-4ec9-b22b-51cdf8c787b9.png)
 
-![Screenshot (64)](https://user-images.githubusercontent.com/87554644/133704740-0bef8223-e9e6-4e5f-9bc3-d6316bb77247.png)
 
 ## Installation
 
