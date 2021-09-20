@@ -1,6 +1,6 @@
 # code_refactor
 
-#### code_refactor, 09/16/21
+#### code_refactor, 09/20/21
 
 #### By Jessica Galarza
 
@@ -55,7 +55,7 @@ Slack
 
 ## Contribution Guidlines
 
-Direct link to site:
+Direct link to site:https://jessica9410.github.io/code_refactor/
 
 ### License
 
