@@ -27,12 +27,8 @@ THEN I find a concise, descriptive title
 ```
 ## Technology Used
 ---------
-*HTML
-*CSS
-*GitHub
-*Gitbash
-*Slack
-
+```HTML```
+```CSS```
 
 ## Support and contact details
 ---------
